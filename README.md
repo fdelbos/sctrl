@@ -1,6 +1,9 @@
 # sctrl
 Serial protocols controller
 
+A controller to use with all sorts of serial devices where commands are run one by one
+in a non concurrent fashion and where sometimes notifications can appear.
+
 ## Test
 - make sure you have mockery installed
 ```sh
