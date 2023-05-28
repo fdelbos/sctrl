@@ -2,7 +2,7 @@
 Serial protocols controller
 
 [![Go Reference](https://pkg.go.dev/badge/github.com/fdelbos/sctrl.svg)](https://pkg.go.dev/github.com/fdelbos/sctrl)
-[![CI Tests](https://github.com/fdelbos/sctrl/actions/workflows/ci.yaml/badge.svg?branch=feature-1)](https://github.com/fdelbos/sctrl/actions?branch=master)
+[![CI Tests](https://github.com/fdelbos/sctrl/actions/workflows/ci.yaml/badge.svg?branch=master)](https://github.com/fdelbos/sctrl/actions?branch=master)
 
 A controller to use with all sorts of serial devices where commands are run one by one
 in a non concurrent fashion and where sometimes notifications can appear.
